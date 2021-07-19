@@ -1,7 +1,7 @@
 # mycode (Ansible Essentials)
 
 This is my attempt to learn about Ansible and the Essentials of Ansible.
-I will be checking in my playbooks to this repo.
+I will be checking in my playbooks to this repo. This will be an awesome adventure.
 
 ## Getting Started
 
